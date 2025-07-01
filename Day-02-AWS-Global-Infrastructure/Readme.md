@@ -3,6 +3,7 @@
 In this section, we will explore how AWS is globally structured to deliver services with high availability, low latency, and fault tolerance.
 
 ---
+![IAM Diagram](diagrams/iam-overview.png)
 
 ## 🌍 What is AWS Global Infrastructure?
 
