@@ -66,6 +66,6 @@ Avoid hardcoding credentials inside applications
 ---
 
 📌 **Next Steps**:  
-In Day-04, we will learn about **AWS Global Infrastructure**: Regions, Availability Zones, and Edge Locations.
+In Day-04, we will set up **AWS Free tier account**.
 
 ---
