@@ -44,6 +44,6 @@ Cloud computing is the **on-demand delivery** of IT resources (like servers, sto
 ---
 
 📌 **Next Steps**:  
-In Day-02, we will learn about **AWS Global Infrastructure**: Regions, Availability Zones, and Edge Locations.
+In Day-02, we will set up **IAM users** and understand AWS account security best practices.
 
 ---
