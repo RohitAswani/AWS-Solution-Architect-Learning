@@ -44,6 +44,6 @@ Cloud computing is the **on-demand delivery** of IT resources (like servers, sto
 ---
 
 📌 **Next Steps**:  
-In Day-02, we will set up **AWS Free tier account**.
+In Day-02, we will learn about **AWS Global Infrastructure**: Regions, Availability Zones, and Edge Locations.
 
 ---
